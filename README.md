@@ -7,7 +7,7 @@ This only contains the ARM executable - For all information see the X86-64 verio
 
 $ md5sum 
 
-79ea9b2d0273bd13d7e79e1b44bd0a8a  duplicate_FF
+79ea9b2d0273bd13d7e79e1b44bd0a8a  duplicateFF
 
 $ file duplicateFF
 
