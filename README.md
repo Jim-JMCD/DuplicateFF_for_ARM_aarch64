@@ -1,7 +1,4 @@
 # DuplicateFF_for_ARM_aarch64
-UNER CONSTRUCTION 
-
-DuplicateFF_for_ARM_aarch64
 
 This only contains the ARM executable - For all information see the X86-64 verion  [DuplicateFF](https://github.com/Jim-JMCD/DuplicateFF)
 
