@@ -1,6 +1,6 @@
 # DuplicateFF_for_ARM_aarch64
 
-This only contains the ARM executable - For all information see the X86-64 verion  [DuplicateFF](https://github.com/Jim-JMCD/DuplicateFF)
+This only contains the ARM executable - For all information go to the X86-64 verion  [DuplicateFF](https://github.com/Jim-JMCD/DuplicateFF)
 
 $ md5sum 
 
