@@ -11,4 +11,6 @@ $ md5sum
 
 $ file duplicate_FF
 
-duplicate_FF: ELF 64-bit LSB pie executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-aarch64.so.1, BuildID[sha1]=6be9b606930168fe3f8d8ef578405ae00d9af094, for GNU/Linux 3.7.0, stripped
+duplicate_FF: ELF 64-bit LSB pie executable, ARM aarch64, version 1 (SYSV), dynamically linked, 
+
+interpreter /lib/ld-linux-aarch64.so.1, BuildID[sha1]=6be9b606930168fe3f8d8ef578405ae00d9af094, for GNU/Linux 3.7.0, stripped
