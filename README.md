@@ -2,6 +2,8 @@
 
 This only contains the ARM executable - For all information go to the X86-64 version  [DuplicateFF](https://github.com/Jim-JMCD/DuplicateFF)
 
+This requires a Linux bash environment to run. Will run in Microsoft WSL2, duplicateFF will not run in MSYS2, Gitbash and Cygwin environmants
+
 $ md5sum duplicateFF
 b270b4414965a287f539b94bce3704ff  duplicateFF
 
