@@ -1,4 +1,4 @@
-# DuplicateFF_for_ARM_aarch64
+# duplicateFF_for_ARM_aarch64
 
 This only contains the ARM executable - For all information go to the X86-64 version  [DuplicateFF](https://github.com/Jim-JMCD/DuplicateFF)
 
