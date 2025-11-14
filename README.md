@@ -3,9 +3,10 @@
 This only contains the ARM executable - For all information go to the X86-64 version  [duplicateFF](https://github.com/Jim-JMCD/DuplicateFF)
 
 This requires a Linux bash environment to run. Will run in Microsoft WSL2(Linux), duplicateFF will not run in MSYS2, Gitbash and Cygwin environmants
+~~~
+$ file duplicateFF
+duplicateFF: ELF 64-bit LSB pie executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-aarch64.so.1, BuildID[sha1]=a0825d38c257d929c9f1f11963e960379e2d4e5a, for GNU/Linux 3.7.0, stripped
 
 $ md5sum duplicateFF
-b270b4414965a287f539b94bce3704ff  duplicateFF
-
-$ file duplicateFF
-duplicateFF: ELF 64-bit LSB pie executable, ARM aarch64, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux-aarch64.so.1, BuildID[sha1]=98c4f86614b474d43768581f8dbcd4fdde3f3838, for GNU/Linux 3.7.0, stripped
+89a8d0c96aac70d5783ba30583191bff  duplicateFF
+~~~
